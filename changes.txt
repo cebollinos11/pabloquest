@@ -1,8 +1,9 @@
-v0.4.b
-Added cutscenes
-Improved leveling system
-Graphical UI
-Bugfix
+
+v0.4.5
+
+custom art
+better game plot
+improved leveling system
 
 v0.4
 New enemy: Wizard!
