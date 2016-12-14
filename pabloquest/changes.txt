@@ -1,0 +1,38 @@
+
+v0.4.5
+
+custom art
+better game plot
+improved leveling system
+
+v0.4
+New enemy: Wizard!
+Improved interface
+New leveling up system
+Removed secret doors
+Application does not exit after dying
+Player now starts with equipped items
+
+v0.35
+new enemies - slug, thief and acid beast!
+bigger image size for some enemies
+walls have now decorations
+new spells: magic eye and rock skin
+spells have now animations
+
+v0.3
+
+new enemy: Necromancer - watch out for this bad guy
+when a potion is thrown, all the foes close to the target suffer the effects
+the game now has an end
+you can hold down a key to move instead of pressing it down every step
+instructions improved
+
+
+V0.2
+new enemy: sorceress- deadly and sexy girls that will make you remove your clothes!
+potions can have enchantments - their effect is repeated times the enchantment level while drunk or thrown
+new projectile system - quiver your items and fire them!
+item weight system
+
+minor interface changes
