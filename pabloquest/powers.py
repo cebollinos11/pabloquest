@@ -1,0 +1,1 @@
+class Power:    name = ''class MonsterEye(Power):    name = 'monster eye'class ItemEye(Power):    name = 'monster eye'class MapEye(Power):    name = 'monster eye'
